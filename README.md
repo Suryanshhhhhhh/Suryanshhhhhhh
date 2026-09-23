@@ -1,3 +1,9 @@
+## 🔗 Primary GitHub
+
+My primary GitHub profile contains my main portfolio and actively maintained projects:
+
+**[@Suryansh-Sharan](https://github.com/Suryansh-Sharan)**
+
 # 🛡️ Original Work & Project Archive
 
 This GitHub account serves as a **public archive of my original software projects, experiments, implementations, and development work**.
@@ -62,11 +68,6 @@ Git history, commits, documentation, and publication dates can help demonstrate 
 
 For projects requiring stronger legal protection, appropriate copyright, licensing, institutional, or other legal measures should be considered separately.
 
-## 🔗 Primary GitHub
-
-My primary GitHub profile contains my main portfolio and actively maintained projects:
-
-**[@Suryansh-Sharan](https://github.com/Suryansh-Sharan)**
 
 ## 👨‍💻 About
 
